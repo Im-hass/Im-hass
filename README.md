@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 # 안녕 난 임하스
+
+<img src="https://img.shields.io/badge/React-444444?style=flat-square&logo=React&logoColor=white"/></a>
