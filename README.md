@@ -17,8 +17,6 @@ F7EFE9
 364765
 --!>
 
-<br>
-
 <h3 align="center">🧑🏻 Me 👩🏻</h3>
 
 <p align="center">
