@@ -1,14 +1,12 @@
 
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
-
-<h2 align="center">🧑🏻 Me 👩🏻</h2>
+<h3 align="center">🧑🏻 Me 👩🏻</h3>
 
 <p align="center">
   I'm a front-end developer.<br>I like your feedback.
 </p>
 
 
-<h2 align="center">🎓 My Tech Stack 📜</h2>
+<h3 align="center">🎓 My Tech Stack 📜</h3>
 
 <p align="center">
   
