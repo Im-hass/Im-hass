@@ -1,3 +1,22 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0F599B&fontColor=f2f8ff&height=230&fontAlignY=30&section=header&text=Hello,%20Im-hass&desc=front-end%20developer&descAlignY=50&fontSize=50&animation=fadeIn)
+
+<!--
+header color
+75BDE0
+1C768F
+
+FFD159
+
+CDE4AD
+C3E5AE
+
+97DBAE
+
+F7EFE9
+76819C
+364765
+--!>
+
 <br>
 
 <h3 align="center">🧑🏻 Me 👩🏻</h3>
