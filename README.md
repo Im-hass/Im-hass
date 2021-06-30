@@ -1,3 +1,4 @@
+<br>
 
 <h3 align="center">🧑🏻 Me 👩🏻</h3>
 
@@ -8,7 +9,7 @@
 <br>
 <br>
 
-<h3 align="center">🎓 My Tech Stack 📜</h3>
+<h3 align="center">🎓 My Tech Stack 🎓</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp;
@@ -31,3 +32,5 @@
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIm-hass&count_bg=%2300539C&title_bg=%2300539C&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </p>
+
+<br>
