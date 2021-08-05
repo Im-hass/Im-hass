@@ -20,7 +20,7 @@ F7EFE9
 <h3 align="center">🧑🏻 Me 👩🏻</h3>
 
 <p align="center">
-  <b>I'm a front-end developer.<br>Your feedback is welcome.</b>
+  <b>I'm frontend developer.<br>Feedback is welcome!!</b>
 </p>
 
 <br>
