@@ -1,22 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0F599B&fontColor=ffffff&height=230&fontAlignY=30&section=header&text=Hello,%20Im-hass&desc=front-end%20developer&descAlignY=50&fontSize=50&animation=fadeIn)
 
-<!--
-header color
-75BDE0
-1C768F
-
-FFD159
-
-CDE4AD
-C3E5AE
-
-97DBAE
-
-F7EFE9
-76819C
-364765
---!>
-
 <h3 align="center">🧑🏻 Me 👩🏻</h3>
 
 <p align="center">
@@ -48,14 +31,19 @@ F7EFE9
 <br>
 
 <h3 align="center">💡 My Page & Contacts 💡</h3>
-- **blogs :** [has_log](https://velog.io/@im_hass_)
-- **E-mail :** huiseon4107@gmail.com
+
+<p align="center">
+  <ul>
+    <li><b>Blogs :</b> https://velog.io/@im_hass_</li>
+    <li><b>E-mail :</b> huiseon4107@gmail.com</li>
+  </ul>
+</p>
 
 <br>
 <br>
 
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIm-hass&count_bg=%2300539C&title_bg=%2300539C&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIm-hass&count_bg=%2300539C&title_bg=%2300539C&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </p>
 
 <br>
