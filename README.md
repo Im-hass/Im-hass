@@ -47,6 +47,13 @@ F7EFE9
 <br>
 <br>
 
+<h3 align="center">💡 My Page & Contacts 💡</h3>
+- **blogs :** [has_log](https://velog.io/@im_hass_)
+- **E-mail :** huiseon4107@gmail.com
+
+<br>
+<br>
+
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIm-hass&count_bg=%2300539C&title_bg=%2300539C&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </p>
