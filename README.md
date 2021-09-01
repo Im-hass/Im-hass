@@ -33,10 +33,9 @@
 <h3 align="center">💡 My Page & Contacts 💡</h3>
 
 <p align="center">
-  <ul>
-    <li><b>Blogs :</b> https://velog.io/@im_hass_</li>
-    <li><b>E-mail :</b> huiseon4107@gmail.com</li>
-  </ul>
+    💭 <b>Blogs :</b> https://velog.io/@im_hass_
+    <br>
+    💬 <b>E-mail :</b> huiseon4107@gmail.com
 </p>
 
 <br>
