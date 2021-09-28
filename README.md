@@ -1,13 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0F599B&fontColor=ffffff&height=230&fontAlignY=30&section=header&text=Hello,%20Im-hass&desc=front-end%20developer&descAlignY=50&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0F599B&fontColor=ffffff&height=180&fontAlignY=25&section=header&text=Hello,%20Im-hass&desc=frontend%20developer&descAlignY=50&fontSize=30&animation=fadeIn)
 
 <h3 align="center">🧑🏻 Me 👩🏻</h3>
 
 <p align="center">
   <b>I'm frontend developer.<br>Feedback is welcome!!</b>
 </p>
-
-<br>
-<br>
 
 <h3 align="center">🎓 My Tech Stack 🎓</h3>
 
@@ -27,9 +24,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>&nbsp;
 </p>
 
-<br>
-<br>
-
 <h3 align="center">💡 My Page & Contacts 💡</h3>
 
 <p align="center">
@@ -38,11 +32,6 @@
     💬 <b>E-mail :</b> huiseon4107@gmail.com
 </p>
 
-<br>
-<br>
-
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIm-hass&count_bg=%2300539C&title_bg=%2300539C&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </p>
-
-<br>
