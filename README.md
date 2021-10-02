@@ -5,6 +5,7 @@
 - **끊임 없는 성장**은 저를 움직이게 하는 **원동력**입니다.
 - **테스트 코드 작성**과 **웹 접근성**을 높이는 것에 대해 관심이 많습니다.
 - **피드백**은 언제나 환영입니다!
+<br>
 
 ## 🎓 My Tech Skill
 ### Frontend
@@ -23,6 +24,7 @@
 
 <!-- ### etc
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/></a>&nbsp; -->
+<br>
 
 ## 💡 My Page & Contacts
 💭 **Blogs :** https://velog.io/@im_hass_  
