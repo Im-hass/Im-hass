@@ -27,7 +27,7 @@
 <br>
 
 ## 💡 My Page & Contacts
-💭 **Blogs :** [has_log](https://velog.io/@im_hass_)
+💭 **Blogs :** [has_log](https://velog.io/@im_hass_)  
 💬 **E-mail :** huiseon4107@gmail.com  
 💍 **Portfolio :** 
 <br>
