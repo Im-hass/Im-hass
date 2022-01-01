@@ -1,6 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0F599B&fontColor=ffffff&height=180&fontAlignY=25&section=header&text=Hello,%20Im-hass&desc=frontend%20developer&descAlignY=50&fontSize=30&animation=fadeIn) -->
 
-## 👩🏻 About me
+## 💁‍♀️ About me
+
 - 안녕하세요! **예비 프론트엔드 개발자 임하스**입니다!
 - **끊임 없는 성장**은 저를 움직이게 하는 **원동력**입니다.
 - **테스트 코드 작성**과 **웹 접근성**을 높이는 것에 대해 관심이 많습니다.
