@@ -2,9 +2,11 @@
 
 ## 💁‍♀️ About me
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-hass&show_icons=true&title_color=24292f)
+
 - 안녕하세요! **예비 프론트엔드 개발자 임하스**입니다!
 - **끊임 없는 성장**은 저를 움직이게 하는 **원동력**입니다.
-- **테스트 코드 작성**과 **웹 접근성**을 높이는 것에 대해 관심이 많습니다.
+- **웹 접근성**을 높이는 것에 대해 관심이 많습니다.
 - **피드백**은 언제나 환영입니다!
 <br>
 
@@ -23,9 +25,10 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>&nbsp;
 
-<!-- ### etc
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/></a>&nbsp; -->
-<br>
+### Tools
+<img src="https://img.shields.io/badge/Vscode-23a9f2?style=for-the-badge&logo=visual studio code&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Notion-fafafa?style=for-the-badge&logo=Notion&logoColor=black"/></a>&nbsp;
 
 ## 💡 My Page & Contacts
 💭 **Blogs :** [has_log](https://velog.io/@im_hass_)  
