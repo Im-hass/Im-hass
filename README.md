@@ -2,7 +2,7 @@
 
 ## 💁‍♀️ About me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-hass&show_icons=true&title_color=24292f)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-hass&show_icons=true&theme=tokyonight)
 
 - 안녕하세요! **예비 프론트엔드 개발자 임하스**입니다!
 - **끊임 없는 성장**은 저를 움직이게 하는 **원동력**입니다.
