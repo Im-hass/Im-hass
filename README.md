@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Notion-fafafa?style=for-the-badge&logo=Notion&logoColor=black"/></a>&nbsp;
 
 ## 💡 My Page & Contacts
-<img align=right src="https://github-readme-stats.vercel.app/api?username=im-hass&show_icons=true&theme=tokyonight" />
+<img align=right height="165" src="https://github-readme-stats.vercel.app/api?username=im-hass&show_icons=true&theme=tokyonight" />
 
 💭 **Blogs :** [has_log](https://velog.io/@im_hass_)  
 💬 **E-mail :** huiseon4107@gmail.com  
